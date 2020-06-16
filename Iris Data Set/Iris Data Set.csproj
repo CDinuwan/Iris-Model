@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Iris_Data_Set</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <COMReference Include="ADOMD.dll">
+      <Guid>22813728-8bd3-11d0-b4ef-00a0c9138ca4</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Lcid>0</Lcid>
+      <Isolated>false</Isolated>
+    </COMReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DatabaseMigrateExt" Version="3.1.0" />
+    <PackageReference Include="Microsoft.ML" Version="1.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Data\iris.data">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

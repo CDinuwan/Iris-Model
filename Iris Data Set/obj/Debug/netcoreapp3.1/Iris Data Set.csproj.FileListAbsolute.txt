@@ -1,0 +1,64 @@
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\Data\iris.data
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\Iris Data Set.exe
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\obj\Debug\netcoreapp3.1\Iris Data Set.csprojAssemblyReference.cache
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\obj\Debug\netcoreapp3.1\Iris Data Set.AssemblyInfoInputs.cache
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\obj\Debug\netcoreapp3.1\Iris Data Set.AssemblyInfo.cs
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\Common.Logging.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\Common.Logging.Core.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\DatabaseMigrateExt.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\FluentMigrator.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\FluentMigrator.Abstractions.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\FluentMigrator.Extensions.SqlAnywhere.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\FluentMigrator.Extensions.SqlServer.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.Core.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.Db2.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.Firebird.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.Hana.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.MySql.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.Oracle.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.Postgres.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.Redshift.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.SqlAnywhere.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.SQLite.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.SqlServer.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\FluentMigrator.Runner.SqlServerCe.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\System.Data.SqlServerCe.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\de-DE\FluentMigrator.Abstractions.resources.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\obj\Debug\netcoreapp3.1\Iris Data Set.csproj.CopyComplete
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\obj\Debug\netcoreapp3.1\Interop.ADOMD.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\obj\Debug\netcoreapp3.1\Iris Data Set.csproj.ResolveComReference.cache
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\obj\Debug\netcoreapp3.1\Iris Data Set.csproj.CoreCompileInputs.cache
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\Iris Data Set.deps.json
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\Iris Data Set.runtimeconfig.json
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\Iris Data Set.runtimeconfig.dev.json
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\Iris Data Set.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\Iris Data Set.pdb
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\Microsoft.ML.Core.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\Microsoft.ML.Data.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\Microsoft.ML.KMeansClustering.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\Microsoft.ML.PCA.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\Microsoft.ML.StandardTrainers.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\Microsoft.ML.Transforms.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\Microsoft.ML.CpuMath.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\Microsoft.ML.DataView.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\LdaNative.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\LdaNative.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\bin\Debug\netcoreapp3.1\Interop.ADOMD.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\obj\Debug\netcoreapp3.1\Iris Data Set.dll
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\obj\Debug\netcoreapp3.1\Iris Data Set.pdb
+C:\Users\hecdi\source\repos\Iris Data Set\Iris Data Set\obj\Debug\netcoreapp3.1\Iris Data Set.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iris Data Set", "Iris Data Set\Iris Data Set.csproj", "{987B4FD7-1F67-4AD1-8B9C-5DF70934792B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{987B4FD7-1F67-4AD1-8B9C-5DF70934792B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{987B4FD7-1F67-4AD1-8B9C-5DF70934792B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{987B4FD7-1F67-4AD1-8B9C-5DF70934792B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{987B4FD7-1F67-4AD1-8B9C-5DF70934792B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FCCEB92-F27A-475A-8C8B-64F1861D9B73}
+	EndGlobalSection
+EndGlobal
